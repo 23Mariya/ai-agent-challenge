@@ -1,0 +1,20 @@
+# Environment variables and secrets
+.env
+
+# Virtual environment
+venv/
+
+# Python cache files and artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testing framework cache
+.pytest_cache/
+
+# VSCode editor settings
+.vscode/
+
+# Ignore generated __init__.py inside custom_parsers
+custom_parsers/__init__.py
